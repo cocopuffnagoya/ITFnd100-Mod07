@@ -36,7 +36,7 @@ There are multiple benefits of structured error handling. One benefit is that yo
 ## **What are the differences between a text file and a binary file?**
 One of the differences between a text file and a binary file is that a binary file is not for humans to read. The data on a binary file is obscure. Below is a binary file example that was created by the assignment script. A text file is readable and understandable to humans. Another difference is that a text file uses the .txt extension. But binary files can have .pkl or .pickle or .bat extensions. You can make up an extension for your binary file. In my assignment script, I gave the .pkl extension to my binary file. (Fig 4)
  
-	**Fig 4 – What is in a binary file and a binary file can have an .pkl extension**
+**Fig 4 – What is in a binary file and a binary file can have an .pkl extension**
 
 ## **How is the Exception class used?**
 The exception class is used to handle errors in Python. In Fig 2 above, I showed the Try-Except block that is designed to catch an error. In the example, the user is expected to enter an integer to the program. If a non-integer value is entered, the Exception message “That is not a valid number. Try again!” is shown.
