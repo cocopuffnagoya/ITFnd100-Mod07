@@ -2,7 +2,7 @@ Name: Coco Jones<br>
 Date: February 26, 2023<br>
 Class: ITFDN110A<br>
 Module: 07<br>
-GitHub: 
+GitHub: https://github.com/cocopuffnagoya/ITFnd100-Mod07<br>
 
 # **Pickling and Try-Except in Python**
 
