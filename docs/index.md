@@ -81,3 +81,5 @@ Python Programming, Third Edition, Course Technology, Michael Dawson 2019  ISBN-
 ![E](https://github.com/cocopuffnagoya/ITFnd100-Mod07/blob/main/docs/Images/E.png "Command Shell")<br>
 ### **Terminal:**
 ![F](https://github.com/cocopuffnagoya/ITFnd100-Mod07/blob/main/docs/Images/F.png "Command Shell")<br>
+![G](https://github.com/cocopuffnagoya/ITFnd100-Mod07/blob/main/docs/Images/G.png "Command Shell")<br>
+![H](https://github.com/cocopuffnagoya/ITFnd100-Mod07/blob/main/docs/Images/H.png "Command Shell")<br>
